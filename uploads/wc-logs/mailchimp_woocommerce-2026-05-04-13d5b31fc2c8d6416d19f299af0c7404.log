@@ -1,0 +1,49 @@
+2026-05-04T10:20:27+00:00 ERROR webhook :: <p>url: Webhooks are no good without a valid URL. Please enter one.</p>
+2026-05-04T10:20:27+00:00 NOTICE plugin_updater :: Updating database from version 6.0.2 to 6.1 :: Array
+(
+    [updated_db] => 1
+)
+
+2026-05-04T10:20:27+00:00 NOTICE plugin_updater :: update_db_check read options blob :: Array
+(
+    [row_present] => 1
+    [option_keys] => Array
+        (
+            [0] => active_tab
+            [1] => mailchimp_api_key
+            [2] => mailchimp_list
+            [3] => admin_email
+            [4] => store_name
+            [5] => store_city
+            [6] => store_state
+            [7] => store_postal_code
+            [8] => store_country
+            [9] => store_street
+            [10] => store_street_2
+            [11] => store_currency_code
+            [12] => store_timezone
+            [13] => store_locale
+            [14] => mailchimp_auto_subscribe
+            [15] => mailchimp_cart_tracking
+            [16] => mailchimp_user_tags
+            [17] => mailchimp_ongoing_sync_status
+            [18] => mailchimp-woocommerce-enable-landing-tracking
+            [19] => api_ping_error
+            [20] => woocommerce_settings_save_general
+            [21] => mailchimp_permission_cap
+        )
+
+    [has_api_key] => 1
+    [has_permission_cap] => 1
+    [auth_from] => 
+)
+
+2026-05-04T10:20:27+00:00 NOTICE plugin_updater :: update_db_check skipped permission_cap write :: Array
+(
+    [reason] => permission_cap_already_set
+)
+
+2026-05-04T10:20:30+00:00 NOTICE webhooks :: Ran plugin updater from version 6.0.2 to 6.1
+2026-05-04T12:09:26+00:00 NOTICE product.updated :: 1
+2026-05-04T12:10:06+00:00 NOTICE product.updated :: 1
+2026-05-04T12:29:57+00:00 NOTICE product.updated :: 1

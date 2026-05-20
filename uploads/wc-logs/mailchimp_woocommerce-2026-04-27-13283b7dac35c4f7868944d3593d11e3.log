@@ -1,0 +1,185 @@
+2026-04-27T08:45:25+00:00 NOTICE product.updated :: 1
+2026-04-27T08:45:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 944
+2026-04-27T08:45:34+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T08:49:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 945
+2026-04-27T08:49:36+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T08:49:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7791 with id 947
+2026-04-27T08:49:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7792 with id 949
+2026-04-27T08:49:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7793 with id 951
+2026-04-27T08:49:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 953
+2026-04-27T08:50:43+00:00 NOTICE product_variant_submit.success :: addStoreProductVariation :: #7791
+2026-04-27T08:50:44+00:00 NOTICE product_variant_submit.success :: addStoreProductVariation :: #7792
+2026-04-27T08:50:45+00:00 NOTICE product_variant_submit.success :: addStoreProductVariation :: #7793
+2026-04-27T08:50:46+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T08:54:07+00:00 NOTICE product.updated :: 1
+2026-04-27T08:54:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 955
+2026-04-27T08:55:21+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T08:56:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7791 with id 956
+2026-04-27T08:56:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7791 with id 957
+2026-04-27T08:56:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7792 with id 960
+2026-04-27T08:56:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7792 with id 961
+2026-04-27T08:56:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7793 with id 964
+2026-04-27T08:56:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7793 with id 965
+2026-04-27T08:56:32+00:00 NOTICE product_submit.success :: upsert :: #7791
+2026-04-27T08:56:33+00:00 NOTICE product_variant_submit.success :: updateStoreProductVariation :: #7791
+2026-04-27T08:56:34+00:00 NOTICE product_submit.success :: upsert :: #7792
+2026-04-27T08:56:35+00:00 NOTICE product_variant_submit.success :: updateStoreProductVariation :: #7792
+2026-04-27T08:56:35+00:00 NOTICE product_submit.success :: upsert :: #7793
+2026-04-27T08:56:36+00:00 NOTICE product_variant_submit.success :: updateStoreProductVariation :: #7793
+2026-04-27T08:57:03+00:00 NOTICE product.updated :: 1
+2026-04-27T08:57:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 969
+2026-04-27T08:57:27+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T08:58:28+00:00 NOTICE product.updated :: 1
+2026-04-27T08:58:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7789 with id 970
+2026-04-27T08:59:33+00:00 NOTICE product.updated :: 1
+2026-04-27T08:59:57+00:00 NOTICE action_scheduler.queue_job :: Mailchimp_WooCommerce_Single_Product_Category starts in 6 seconds :: obj_id 23 with id 972
+2026-04-27T08:59:57+00:00 NOTICE product.updated :: 1
+2026-04-27T09:00:36+00:00 NOTICE product_submit.success :: upsert :: #7789
+2026-04-27T09:00:38+00:00 NOTICE product_category_submit.success :: #23
+2026-04-27T09:07:54+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:10:31+00:00 NOTICE product.updated :: 1
+2026-04-27T09:13:53+00:00 NOTICE product.updated :: 1
+2026-04-27T09:14:54+00:00 NOTICE product.updated :: 1
+2026-04-27T09:15:55+00:00 NOTICE product.updated :: 1
+2026-04-27T09:17:06+00:00 NOTICE product.updated :: 1
+2026-04-27T09:17:27+00:00 NOTICE product.updated :: 1
+2026-04-27T09:17:30+00:00 NOTICE product.updated :: 1
+2026-04-27T09:17:38+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:19:59+00:00 NOTICE product.updated :: 1
+2026-04-27T09:20:58+00:00 NOTICE product.updated :: 1
+2026-04-27T09:21:02+00:00 NOTICE product.updated :: 1
+2026-04-27T09:23:04+00:00 NOTICE product.updated :: 1
+2026-04-27T09:24:23+00:00 NOTICE product.updated :: 1
+2026-04-27T09:26:43+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:28:15+00:00 NOTICE product.updated :: 1
+2026-04-27T09:29:15+00:00 NOTICE product.updated :: 1
+2026-04-27T09:30:01+00:00 NOTICE product.updated :: 1
+2026-04-27T09:30:04+00:00 NOTICE product.updated :: 1
+2026-04-27T09:30:31+00:00 NOTICE product.updated :: 1
+2026-04-27T09:30:34+00:00 NOTICE product.updated :: 1
+2026-04-27T09:33:58+00:00 NOTICE product.updated :: 1
+2026-04-27T09:34:02+00:00 NOTICE product.updated :: 1
+2026-04-27T09:34:09+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:34:25+00:00 NOTICE product.updated :: 1
+2026-04-27T09:34:29+00:00 NOTICE product.updated :: 1
+2026-04-27T09:36:29+00:00 NOTICE product.updated :: 1
+2026-04-27T09:36:33+00:00 NOTICE product.updated :: 1
+2026-04-27T09:38:42+00:00 NOTICE product.updated :: 1
+2026-04-27T09:39:04+00:00 NOTICE product.updated :: 1
+2026-04-27T09:39:08+00:00 NOTICE product.updated :: 1
+2026-04-27T09:39:15+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:40:10+00:00 NOTICE product.updated :: 1
+2026-04-27T09:40:13+00:00 NOTICE product.updated :: 1
+2026-04-27T09:41:29+00:00 NOTICE product.updated :: 1
+2026-04-27T09:41:34+00:00 NOTICE product.updated :: 1
+2026-04-27T09:42:04+00:00 NOTICE product.updated :: 1
+2026-04-27T09:42:08+00:00 NOTICE product.updated :: 1
+2026-04-27T09:42:42+00:00 NOTICE product.updated :: 1
+2026-04-27T09:42:46+00:00 NOTICE product.updated :: 1
+2026-04-27T09:43:22+00:00 NOTICE product.updated :: 1
+2026-04-27T09:43:26+00:00 NOTICE product.updated :: 1
+2026-04-27T09:44:13+00:00 NOTICE product.updated :: 1
+2026-04-27T09:44:17+00:00 NOTICE product.updated :: 1
+2026-04-27T09:44:23+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:46:28+00:00 NOTICE product.updated :: 1
+2026-04-27T09:46:31+00:00 NOTICE product.updated :: 1
+2026-04-27T09:47:23+00:00 NOTICE product.updated :: 1
+2026-04-27T09:47:27+00:00 NOTICE product.updated :: 1
+2026-04-27T09:48:35+00:00 NOTICE product.updated :: 1
+2026-04-27T09:48:39+00:00 NOTICE product.updated :: 1
+2026-04-27T09:49:11+00:00 NOTICE product.updated :: 1
+2026-04-27T09:49:15+00:00 NOTICE product.updated :: 1
+2026-04-27T09:52:18+00:00 NOTICE product.updated :: 1
+2026-04-27T09:52:25+00:00 NOTICE product.updated :: 1
+2026-04-27T09:52:34+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T09:53:52+00:00 NOTICE product.updated :: 1
+2026-04-27T09:53:58+00:00 NOTICE product.updated :: 1
+2026-04-27T09:59:33+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T10:13:03+00:00 NOTICE product.updated :: 1
+2026-04-27T10:13:04+00:00 NOTICE product.updated :: 1
+2026-04-27T10:15:19+00:00 NOTICE product.updated :: 1
+2026-04-27T10:15:21+00:00 NOTICE product.updated :: 1
+2026-04-27T10:16:25+00:00 NOTICE product.updated :: 1
+2026-04-27T10:16:26+00:00 NOTICE product.updated :: 1
+2026-04-27T10:21:18+00:00 NOTICE product.updated :: 1
+2026-04-27T10:21:19+00:00 NOTICE product.updated :: 1
+2026-04-27T10:23:56+00:00 NOTICE product.updated :: 1
+2026-04-27T10:23:58+00:00 NOTICE product.updated :: 1
+2026-04-27T10:25:03+00:00 NOTICE product.updated :: 1
+2026-04-27T10:25:04+00:00 NOTICE product.updated :: 1
+2026-04-27T10:27:55+00:00 NOTICE product.updated :: 1
+2026-04-27T10:27:56+00:00 NOTICE product.updated :: 1
+2026-04-27T10:27:57+00:00 NOTICE product.updated :: 1
+2026-04-27T10:29:05+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2026-04-27T10:29:30+00:00 NOTICE product.updated :: 1
+2026-04-27T10:29:38+00:00 NOTICE product.updated :: 1
+2026-04-27T10:42:34+00:00 NOTICE product.updated :: 1
+2026-04-27T10:53:24+00:00 NOTICE product.updated :: 1
+2026-04-27T10:54:53+00:00 NOTICE product.updated :: 1
+2026-04-27T10:55:55+00:00 NOTICE product.updated :: 1
+2026-04-27T10:58:36+00:00 NOTICE product.updated :: 1
+2026-04-27T10:59:39+00:00 NOTICE product.updated :: 1
+2026-04-27T11:01:29+00:00 NOTICE product.updated :: 1

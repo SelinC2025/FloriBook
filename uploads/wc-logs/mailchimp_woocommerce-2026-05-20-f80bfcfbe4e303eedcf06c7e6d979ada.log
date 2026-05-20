@@ -1,0 +1,35 @@
+2026-05-20T08:54:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 8007 with id 1236
+2026-05-20T08:54:09+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:54:09+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:54:09+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:54:09+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:54:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product_Variation starts in 5 seconds :: obj_id 7787 with id 1237
+2026-05-20T08:54:11+00:00 NOTICE debug :: Order ID 8007 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [landing_site] => 
+        )
+
+)
+2026-05-20T08:54:11+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:54:14+00:00 NOTICE identity :: tracking identity through order purchased hook :: Array
+(
+    [email] => celaleddinselin615@gmail.com
+)
+2026-05-20T08:56:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 8008 with id 1239
+2026-05-20T08:56:22+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:56:22+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:56:22+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:56:22+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:56:23+00:00 NOTICE debug :: Order ID 8008 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+2026-05-20T08:56:23+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-20T08:56:26+00:00 NOTICE identity :: tracking identity through order purchased hook :: Array
+(
+    [email] => celaleddinselin615@gmail.com
+)

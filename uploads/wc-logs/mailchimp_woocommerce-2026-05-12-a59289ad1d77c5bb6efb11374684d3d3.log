@@ -1,0 +1,115 @@
+2026-05-12T05:56:35+00:00 NOTICE product_variant_submit.success :: updateStoreProductVariation :: #7741
+2026-05-12T05:56:35+00:00 NOTICE order_process :: Order #7803 skipped, user #1 user role is not in the list
+2026-05-12T06:01:07+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:34+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:34+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:34+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:35+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:35+00:00 NOTICE product.updated :: 1
+2026-05-12T07:42:35+00:00 NOTICE product.updated :: 1
+2026-05-12T07:51:20+00:00 NOTICE product.updated :: 1
+2026-05-12T07:59:06+00:00 NOTICE product.updated :: 1
+2026-05-12T08:12:17+00:00 NOTICE product_cat.update :: Updated product category 85
+2026-05-12T08:14:10+00:00 NOTICE product_cat.update :: Updated product category 83
+2026-05-12T08:15:42+00:00 NOTICE product_cat.update :: Updated product category 24
+2026-05-12T08:17:22+00:00 NOTICE product_cat.update :: Updated product category 15
+2026-05-12T08:19:29+00:00 NOTICE product_cat.update :: Updated product category 83
+2026-05-12T08:20:51+00:00 NOTICE product_cat.update :: Updated product category 83
+2026-05-12T08:37:39+00:00 NOTICE product.updated :: 1
+2026-05-12T08:37:40+00:00 NOTICE product.updated :: 1
+2026-05-12T08:41:14+00:00 NOTICE product.updated :: 1
+2026-05-12T08:41:15+00:00 NOTICE product.updated :: 1
+2026-05-12T08:41:16+00:00 NOTICE product.updated :: 1
+2026-05-12T08:57:23+00:00 NOTICE product.updated :: 1
+2026-05-12T08:57:25+00:00 NOTICE product.updated :: 1
+2026-05-12T09:10:35+00:00 NOTICE product.updated :: 1
+2026-05-12T09:10:35+00:00 NOTICE product.updated :: 1
+2026-05-12T09:10:36+00:00 NOTICE product.updated :: 1
+2026-05-12T09:14:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 7861 with id 1066
+2026-05-12T09:14:20+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:14:20+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:14:20+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:14:20+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:14:22+00:00 NOTICE debug :: Order ID 7861 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2026-05-12T09:14:22+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:14:28+00:00 NOTICE identity :: tracking identity through order purchased hook :: Array
+(
+    [email] => celaleddinselin@gmail.com
+)
+
+2026-05-12T09:15:39+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:15:39+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:15:39+00:00 NOTICE handleOrderUpdate :: order_status
+2026-05-12T09:15:41+00:00 NOTICE debug :: Order ID 7861 was on-hold and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2026-05-12T09:22:29+00:00 NOTICE order_process :: Order #7861 skipped, user #1 user role is not in the list
+2026-05-12T09:39:53+00:00 NOTICE product.updated :: 1
+2026-05-12T09:40:27+00:00 NOTICE product.updated :: 1
+2026-05-12T09:40:32+00:00 NOTICE product.updated :: 1
+2026-05-12T09:43:12+00:00 NOTICE product.updated :: 1
+2026-05-12T09:43:13+00:00 NOTICE product.updated :: 1
+2026-05-12T09:57:56+00:00 NOTICE product.updated :: 1
+2026-05-12T09:57:56+00:00 NOTICE product.updated :: 1
+2026-05-12T10:13:43+00:00 NOTICE product.updated :: 1
+2026-05-12T10:13:43+00:00 NOTICE product.updated :: 1
+2026-05-12T10:13:44+00:00 NOTICE product.updated :: 1
+2026-05-12T10:21:51+00:00 NOTICE product.updated :: 1
+2026-05-12T10:21:51+00:00 NOTICE product.updated :: 1
+2026-05-12T10:21:51+00:00 NOTICE product.updated :: 1
+2026-05-12T10:23:15+00:00 NOTICE product.updated :: 1
+2026-05-12T10:23:15+00:00 NOTICE product.updated :: 1
+2026-05-12T10:23:16+00:00 NOTICE product.updated :: 1
+2026-05-12T10:26:55+00:00 NOTICE product.updated :: 1
+2026-05-12T10:26:55+00:00 NOTICE product.updated :: 1
+2026-05-12T12:33:24+00:00 NOTICE product.updated :: 1
+2026-05-12T12:33:24+00:00 NOTICE product.updated :: 1
+2026-05-12T12:33:25+00:00 NOTICE product.updated :: 1
+2026-05-12T12:52:15+00:00 NOTICE product.updated :: 1
+2026-05-12T12:52:16+00:00 NOTICE product.updated :: 1
+2026-05-12T12:52:16+00:00 NOTICE product.updated :: 1
+2026-05-12T13:18:18+00:00 NOTICE product.updated :: 1
+2026-05-12T13:18:18+00:00 NOTICE product.updated :: 1
+2026-05-12T13:19:50+00:00 NOTICE product.updated :: 1
+2026-05-12T13:19:51+00:00 NOTICE product.updated :: 1
+2026-05-12T13:22:43+00:00 NOTICE product.updated :: 1
+2026-05-12T13:22:43+00:00 NOTICE product.updated :: 1
+2026-05-12T13:25:10+00:00 NOTICE product.updated :: 1
+2026-05-12T13:25:11+00:00 NOTICE product.updated :: 1
+2026-05-12T13:25:12+00:00 NOTICE product.updated :: 1
+2026-05-12T14:22:38+00:00 NOTICE product.updated :: 1
+2026-05-12T14:22:39+00:00 NOTICE product.updated :: 1
+2026-05-12T14:22:40+00:00 NOTICE product.updated :: 1
+2026-05-12T14:25:25+00:00 NOTICE product.updated :: 1
+2026-05-12T14:25:26+00:00 NOTICE product.updated :: 1
+2026-05-12T14:25:36+00:00 NOTICE product.updated :: 1
+2026-05-12T14:25:36+00:00 NOTICE product.updated :: 1
+2026-05-12T14:25:37+00:00 NOTICE product.updated :: 1
+2026-05-12T14:27:20+00:00 NOTICE product.updated :: 1
+2026-05-12T14:27:22+00:00 NOTICE product.updated :: 1
+2026-05-12T14:28:29+00:00 NOTICE product.updated :: 1
+2026-05-12T14:28:29+00:00 NOTICE product.updated :: 1
+2026-05-12T14:28:42+00:00 NOTICE product.updated :: 1
+2026-05-12T16:51:17+00:00 NOTICE product.updated :: 1
+2026-05-12T16:51:19+00:00 NOTICE product.updated :: 1
+2026-05-12T16:52:44+00:00 NOTICE product.updated :: 1
+2026-05-12T16:52:46+00:00 NOTICE product.updated :: 1
+2026-05-12T17:09:24+00:00 NOTICE product.updated :: 1
+2026-05-12T17:09:25+00:00 NOTICE product.updated :: 1
+2026-05-12T17:33:37+00:00 NOTICE product.updated :: 1
+2026-05-12T17:33:38+00:00 NOTICE product.updated :: 1
+2026-05-12T17:33:40+00:00 NOTICE product.updated :: 1
+2026-05-12T19:29:36+00:00 NOTICE product.updated :: 1
+2026-05-12T19:29:37+00:00 NOTICE product.updated :: 1
+2026-05-12T19:29:37+00:00 NOTICE product.updated :: 1
+2026-05-12T19:34:01+00:00 NOTICE product.updated :: 1
+2026-05-12T19:34:01+00:00 NOTICE product.updated :: 1
+2026-05-12T19:34:02+00:00 NOTICE product.updated :: 1
